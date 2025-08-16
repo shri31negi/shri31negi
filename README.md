@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shristi negi</h1>
-<h3 align="center">🌱 A Beginner Developer | Lifelong Learner | Tech Explorer</h3>
+<h3 align="center">🌱 A Machine learning Enthusiast | Lifelong Learner | Tech Explorer</h3>
 
 ---
 
@@ -10,16 +10,21 @@
 
 ---
 
-## 🛠️ Skills in Progress  
+## 🛠️ Skills 
 
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=black"/>
 </p>
+
+---
+
+## 📌 Featured Projects  
+- 🔹 [**Customer-Churn-Prediction-Model**](https://github.com/shri31negi/Customer-Churn-Prediction-Model) – A machine learning web app built with Streamlit to predict whether a telecom customer is likely to churn or stay, based on their demographic and service usage information. 
+- 🔹 [**Car-price-prediction**](https://github.com/shri31negi/Car-price-prediction-) – building a prediction model using linear regression.
 
 ---
 
