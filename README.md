@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shristi negi</h1>
-<h3 align="center">🌱 A Machine learning Enthusiast | Lifelong Learner | Tech Explorer</h3>
+<h3 align="center">🌱 A Machine learning Enthusiast | Java & DSA Explorer | Lifelong Learner | Tech Explorer</h3>
 
 ---
 
 ## 💫 About Me  
-- 🌱 I’m currently learning ** Machine Learning **  
+- 🌱 I’m currently learning ** Deep Learning **
+- ☕ Currently exploring **Java** and improving my **Data Structures & Algorithms (DSA)** skills 
 - 👨‍💻 I’m building small projects to strengthen my foundations   
 - 📚 I believe in **learning by doing**    
 
