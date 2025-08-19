@@ -29,22 +29,17 @@
 
 ---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github.com/shri31negi/)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Streak](https://github.com/shri31negi/)
 
 ---
 
 ## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github.com/shri31negi/)
 
 ---
 
