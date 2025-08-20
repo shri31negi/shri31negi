@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shristi negi</h1>
-<h3 align="center">🌱 A Machine learning Enthusiast | Java & DSA Explorer | Lifelong Learner | Tech Explorer</h3>
-
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,6 +5,8 @@
   </a>
 </p>
 
+---
+<h3 align="center">🌱 A Machine learning Enthusiast | Java & DSA Explorer | Lifelong Learner | Tech Explorer</h3>
 ---
 
 ## 💫 About Me  
@@ -47,7 +46,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/shri31negi/shri31negi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
