@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shristi negi</h1>
 <h3 align="center">🌱 A Machine learning Enthusiast | Java & DSA Explorer | Lifelong Learner | Tech Explorer</h3>
 
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF5733&width=435&lines=Hi+%F0%9F%91%8B+I'm+Shristi+Negi;I+love+Java+%26+DSA;I+build+cool+projects+with+Python;Always+learning+new+things!" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 ## 💫 About Me  
@@ -35,6 +42,13 @@
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shri31negi&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
 ---
 
