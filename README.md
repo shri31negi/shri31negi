@@ -47,7 +47,7 @@
 <!-- Neon snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/output/snake-dark.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/output/snake-neon.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/shri31negi/shri31negi/output/snake-neon.svg" />
 </picture>
 
 ---
