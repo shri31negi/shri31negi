@@ -1,11 +1,11 @@
-name: Generate snake
+name: Generate vibrant snake
 
 on:
   schedule:
     - cron: "30 18 * * *"     
   workflow_dispatch:          
   push:
-    branches: ["main"]     
+    branches: ["main"]        
 
 permissions:
   contents: write
@@ -17,14 +17,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake svgs/gif
+      - name: Generate vibrant snake svgs/gifs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+            dist/snake-neon.svg?color_snake=#ff00ff&color_dots=#00ffff&palette=github-light
             dist/snake.gif
+            dist/snake-dark.gif?palette=github-dark
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
