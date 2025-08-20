@@ -44,12 +44,11 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/shri31negi/shri31negi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-  ![Snake animation](https://github.com/shri31negi/shri31negi/blob/output/github-contribution-grid-snake.svg)
-
-</p>
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shri31negi/shri31negi/output/snake-dark.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/shri31negi/shri31negi/output/snake.svg" />
+</picture>
 
 ---
 
