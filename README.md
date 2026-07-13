@@ -31,7 +31,7 @@
 
 ## 📌 Featured Projects  
 - 🔹 [**Customer-Churn-Prediction-Model**](https://github.com/shri31negi/Customer-Churn-Prediction-Model) – A machine learning web app built with Streamlit to predict whether a telecom customer is likely to churn or stay, based on their demographic and service usage information. 
-- 🔹 [**Car-price-prediction**](https://github.com/shri31negi/Car-price-prediction-) – building a prediction model using linear regression.
+- 🔹 [**TradeMind AI - Intelligent Trading & Advisory Platform**](https://github.com/shri31negi/AI-agent-for-personalized-Stock-trading-and-market-advisory) – TradeMind AI is a comprehensive, AI-powered stock market trading and advisory platform. It combines real-time market data, advanced machine learning for price prediction, and a conversational AI advisor to help users make smarter investment decisions.
 
 ---
 ## 📊 GitHub Stats
