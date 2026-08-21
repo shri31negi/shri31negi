@@ -6,7 +6,7 @@
 </p>
 
 ---
-<h3 align="center">🌱 A Machine learning Enthusiast | Java & DSA Explorer | Lifelong Learner | Tech Explorer</h3>
+<h3 align="center">🌱 Spring learner| Java & DSA Explorer | Lifelong Learner | Tech Explorer\Agentic AI</h3>
 ---
 
 ## 💫 About Me  
